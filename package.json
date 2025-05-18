@@ -4,8 +4,7 @@
   "description": "Minecraft Bedrock Bot",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
-    "install": "node-gyp rebuild"
+    "start": "node bot.js"
   },
   "dependencies": {
     "bedrock-protocol": "^3.40.0"
